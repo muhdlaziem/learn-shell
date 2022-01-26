@@ -1,0 +1,1 @@
+disown -h %1 (where 1 is job id, detach job from user shell)

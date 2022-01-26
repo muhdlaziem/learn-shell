@@ -1,0 +1,6 @@
+Computer:  muhdlaziem
+Linux kernal info:  Linux muhdlaziem 5.4.0-96-generic #109-Ubuntu SMP Wed Jan 12 16:49:16 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+Shell version:  5.0.17(1)-release
+Computer:  muhdlaziem
+Linux kernal info:  Linux muhdlaziem 5.4.0-96-generic #109-Ubuntu SMP Wed Jan 12 16:49:16 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+Shell version:  5.0.17(1)-release
