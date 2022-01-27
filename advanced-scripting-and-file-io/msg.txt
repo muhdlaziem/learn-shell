@@ -1,0 +1,30 @@
+Subject: ./dir_create.sh completed successfully
+Contents of /budgets
+total 32
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:12 2018
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:12 2019
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:12 2020
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:12 2021
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:09 2022
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:09 2023
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:09 2024
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:09 2025
+Subject: ./dir_create.sh completed successfully
+Contents of /budgets
+total 32
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2018
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2019
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2020
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2021
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2022
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2023
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2024
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2025
+Subject: ./dir_create.sh completed successfully
+Contents of /budgets
+total 20
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2001
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2002
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2003
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2004
+drwxrwxr-x 2 muhdlaziem muhdlaziem 4096 Jan 27 07:20 2005
