@@ -1,0 +1,11 @@
+#!/usr/bin/expect
+
+set username [lindex $argv 0]
+set password [lindex $argv 1]
+set ssh_host "muhdlaziem"
+
+spawn rsync -avz $username@$ssh_host:~/workspace/learn-shell/datafiles ./backup
+
+expect "$username@$ssh_host's password" {send "$password\r"}
+
+interact

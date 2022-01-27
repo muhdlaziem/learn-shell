@@ -1,0 +1,9 @@
+#!/usr/bin/expect -f
+
+set timeout -1
+spawn ./askforinput.sh
+match_max 100000
+expect "Enter cost center:\r" {send "muhdlaziem\r"}
+
+expect "Enter project code:\r" {send "HJK000\r"}
+expect eof

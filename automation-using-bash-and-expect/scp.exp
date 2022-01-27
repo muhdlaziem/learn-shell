@@ -1,0 +1,11 @@
+#!/usr/bin/expect
+
+set username [lindex $argv 0]
+set password [lindex $argv 1]
+set ssh_host "muhdlaziem"
+
+spawn scp $username@$ssh_host:~/workspace/learn-shell/datafiles/monthly_numbers.txt ./backup/remotehost
+
+expect "$username@$ssh_host's password" {send "$password\r"}
+
+interact
